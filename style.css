@@ -518,7 +518,9 @@ margin-top: 20px;
 
 @media screen and (max-width: 600px) {
  
- 
+  .navContainer, .populartour, .handcardContainer, .simpleContainer {
+    flex-direction: column;
+  }
 
 
 
