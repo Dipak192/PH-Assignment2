@@ -55,7 +55,6 @@ header, main{
   gap: 20px;
   height: auto;
   margin-top: 140px;
-  background-color: ;
 }
 .ExploreTravel {
   background-image: url("./B9A2-Hero-Travel/Images/Group\ 13\ \(1\)\ \(1\).png");
@@ -182,7 +181,6 @@ ul {
 }
 .img1 {
   grid-column: 1 / span 6;
-  grid-row: ;
 
 }
 .img2 {
@@ -271,7 +269,7 @@ ul {
   font-family: Mulish;
   font-weight: 400;
   line-height: 26px;
-  p
+  
 }
 
 .cardimg2{
@@ -417,7 +415,7 @@ font-weight: 800;
   top: 205px;
   right: 350px;
   
-  transform: rotate(-30deg); */
+  transform: rotate(-30deg);
 
 }
 
